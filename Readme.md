@@ -25,7 +25,7 @@ Addiction Behavior & Lifestyle Impact Analysis Dashboard
 ## Data Visualization
 Page 1.  
 <br/><br/>
-![Addiction Analysis Dashboard](https://github.com/HopeVictor/PowerBI_Projects/blob/main/Addiction%20Analysis%20Page%201.png)
+![Addiction Analysis Dashboard](https://github.com/VictorSmart-1/Power-BI-Projects/blob/main/Page1.png)
 
 <figure>
 
